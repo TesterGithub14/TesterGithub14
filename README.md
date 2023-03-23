@@ -24,4 +24,7 @@
 - ⚡ Fun fact: You won't regret having me trained. I will be loyal to the company that gives me the opportunity to intern.
 
 <h2> 🚀 &nbsp;Details:</h2>
+<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
+[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
+</p>
