@@ -1,4 +1,6 @@
-### This is my status to show you what am i working on
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 Here are some ideas to make you understand a few things about me:
 
