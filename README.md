@@ -25,5 +25,6 @@
 
 <h2> 🚀 &nbsp;Details:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
+[![Thien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
 [![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
+[![Thien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
