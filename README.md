@@ -25,6 +25,6 @@
 
 <h2> 🚀 &nbsp;Details:</h2>
 
-[![Thien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Thien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=testergithub14)](https://github.com/testergithub14/github-readme-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
