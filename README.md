@@ -22,3 +22,4 @@ Here are some ideas to make you understand a few things about me:
 - 📫 How to reach me: Email: imagineworld14@gmail.com / Phone: 0364108660 / FB: Tester Nnt
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You won't regret having me trained. I will be loyal to the company that gives me the opportunity to intern.
+[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
