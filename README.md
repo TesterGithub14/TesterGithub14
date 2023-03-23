@@ -1,4 +1,4 @@
-<h2> 🚀 &nbsp;Here are some ideas to make you understand a few things about me:</h2>
+<h2> 🚀 &nbsp;Welcome everyone, Here are some ideas to make you understand a few things about me:</h2>
 
 - 🔭 I’m currently working on three projects: 1/Computer workshop website using PHP, MySQL. 2/Clock shop website React.js, Node.js, MongoDB. 3/Java Game
 - 🌱 I’m currently learning: JavaScript, PHP, React.js, Node.js, MongoDB, Java
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You won't regret having me trained. I will be loyal to the company that gives me the opportunity to intern.
 
-<h2> 🚀 &nbsp;Welcome everyone, here are some programing language and tools I Have Used and Learned:</h2>
+<h2> 🚀 &nbsp;Here are some programing language and tools I Have Used and Learned:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>      
