@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with: Intern - Web Developer.
 This is my CV: https://drive.google.com/file/d/1EZmtGt-rtEFNQSigPgJ21IUHa34pJaTT/view?usp=sharing
 - 💬 Ask me about Anything
-- 📫 How to reach me: Email: imagineworld14@gmail.com / Phone: 0364108660 (Zalo)
+- 📫 How to reach me: Email: imagineworld14@gmail.com / Phone: 0364108660 / Zalo: Same phone number
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You won't regret having me trained. I will be loyal to the company that gives me the opportunity to intern.
 
