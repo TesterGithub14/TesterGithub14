@@ -8,7 +8,7 @@ This is my CV: https://drive.google.com/file/d/1EiowUsAY33M6xvGsYQqbL65oXyocFV5A
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email: imagineworld14@gmail.com / Phone: 0364108660 / Zalo: Same phone number
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: You won't regret having me trained. I will be loyal to the company that gives me the opportunity to intern.
+- ⚡ Fun fact: You won't regret having me trained.
 
 <h2> 🚀 &nbsp;Here are some programing language and tools I have used and learned:</h2>
 <p align="center">
