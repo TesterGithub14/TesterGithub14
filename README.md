@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: JavaScript, PHP, React.js, Node.js, MongoDB, Java
 - 👯 I’m looking to collaborate on: JavaScript
 - 🤔 I’m looking for help with: Intern - Web Developer.
-This is my CV: https://drive.google.com/file/d/1EiowUsAY33M6xvGsYQqbL65oXyocFV5A/view?usp=sharing
+This is my CV: https://shorturl.at/3XjTu
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email: imagineworld14@gmail.com / Phone: 0364108660 / Zalo: Same phone number / FB: https://www.facebook.com/NNT1411/
 - 😄 Pronouns: He/him
